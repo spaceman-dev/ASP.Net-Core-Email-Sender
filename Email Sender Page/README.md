@@ -1,5 +1,5 @@
 # Email Sender Page
-This repository contains the **ASP.NET Core** program to send an *email*.  
+This repository contains the **ASP.NET Core** program to send an *email* prefarably Gmail.  
 1. Open a new Project on Visual Studio 2019  
 	- select the *ASP.NET Core Web Application*  
 	- Name the project  

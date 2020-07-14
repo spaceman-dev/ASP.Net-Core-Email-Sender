@@ -1,0 +1,9 @@
+C:\Users\dhruv\source\repos\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\dhruv\source\repos\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\EmailApp\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\dhruv\source\repos\EmailApp\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache

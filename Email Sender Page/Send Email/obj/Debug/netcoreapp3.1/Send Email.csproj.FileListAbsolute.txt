@@ -1,0 +1,111 @@
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.exe
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.deps.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.runtimeconfig.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.runtimeconfig.dev.json
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.pdb
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.Views.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Send Email.Views.pdb
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.csprojAssemblyReference.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.RazorAssemblyInfo.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.RazorAssemblyInfo.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.TagHelpers.input.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.TagHelpers.output.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.RazorCoreGenerate.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.RazorTargetAssemblyInfo.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.RazorTargetAssemblyInfo.cs
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.Views.pdb
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\staticwebassets\Send Email.StaticWebAssets.Manifest.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\staticwebassets\Send Email.StaticWebAssets.xml
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.pdb
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.genruntimeconfig.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.csproj.CopyComplete
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Send Email.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dhruv\source\repos\Send Email\Send Email\obj\Debug\netcoreapp3.1\Razor\Views\SendMail\Index.cshtml.g.cs

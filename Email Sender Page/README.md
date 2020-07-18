@@ -33,7 +33,7 @@ This repository contains the **ASP.NET Core** program to send an *email* prefara
             smtp.Port = 587;
             smtp.UseDefaultCredentials = true;
             smtp.EnableSsl = true;
-            smtp.Credentials = new System.Net.NetworkCredential("your@emailid.com", "space1612");
+            smtp.Credentials = new System.Net.NetworkCredential("your@emailid.com", "yourpassword");
             smtp.Send(mm);
             ViewBag.message = "The Email has been sent to '" + em.To + "' Successfully!";
             return View();
